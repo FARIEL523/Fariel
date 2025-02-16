@@ -1,0 +1,28 @@
+/* Atur tampilan seluruh halaman */
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Gaya untuk teks judul */
+h1 {
+    font-size: 36px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: cyan;
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Gaya untuk paragraf */
+p {
+    font-size: 18px;
+    color: lightgray;
+}
+
+/* Animasi efek muncul */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
