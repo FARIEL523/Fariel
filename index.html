@@ -1,16 +1,28 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" 
-content="width=device-width, 
-initial-scale=1.0">
-    <title>MUHAMMAD FARIEL GIFARI</title>
-    <link rel="stylesheet" 
-href="style.css"> 
+  <meta charset="UTF-8">
+  <title>Web Pribadi Fariel</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>MUHAMMAD FARIEL GIFARI!</h1>
-    <p>Ini adalah contoh website menggunakan External CSS.</p>
+
+  <header>
+    <h1>Web Pribadi Fariel</h1>
+    <nav>
+      <button onclick="tampilkan('home')">Home</button>
+      <button onclick="tampilkan('about')">About</button>
+      <button onclick="tampilkan('contact')">Contact</button>
+      <button onclick="tampilkan('tugas')">Tugas</button>
+    </nav>
+  </header>
+
+  <main id="konten">
+    <p>Selamat datang di web saya! Silakan pilih menu di atas.</p>
+  </main>
+
+  <audio id="backsound" src="audio/backsound.mp3" autoplay loop></audio>
+
+  <script src="script.js"></script>
 </body>
 </html>
