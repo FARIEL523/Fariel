@@ -5,7 +5,7 @@ function tampilkan(halaman) {
     konten.innerHTML = `
       <h2>Home</h2>
       <p>Halo! Saya Fariel. Ini adalah web pribadi saya.</p>
-      <img src="gambar/foto1.jpg" alt="Foto Saya" width="200">
+      <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
     `;
   } else if (halaman === 'about') {
     konten.innerHTML = `
