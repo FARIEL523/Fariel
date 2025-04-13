@@ -19,7 +19,7 @@ function tampilkan(halaman) {
       <p>Instagram: @farielgifari</p>
     `;
   } else if (halaman === 'tugas') {
-    konten.innerHTML = `                     FORMAT_AUDIO_POPULER.pdf
+    konten.innerHTML = `                     
   <h2>Tugas</h2>
   <p>Berikut adalah tugas saya:</p>
   <ul>
