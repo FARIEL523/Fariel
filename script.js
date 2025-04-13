@@ -24,8 +24,11 @@ function tampilkan(halaman) {
       <p>Berikut adalah tugas saya:</p>
       <ul>
         <li><a href="file/tugas1.pdf" download>Tugas 1 - PDF</a></li>
+        <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
         <li><a href="#">Tugas 2 (belum diupload)</a></li>
       </ul>
+      <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
+      <embed src="UTS_SISMUL_FARIEL.pdf" type="application/pdf" width="100%" height="500px">
     `;
   }
 }
