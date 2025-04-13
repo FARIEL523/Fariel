@@ -27,6 +27,10 @@ function tampilkan(halaman) {
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
   <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
+
+  <audio controls>
+    <source src="Musik.mp3" type="audio/mpeg">
+  </audio>
 `;
 
   }
