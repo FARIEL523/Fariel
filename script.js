@@ -28,7 +28,7 @@ function tampilkan(halaman) {
         <li><a href="#">Tugas 2 (belum diupload)</a></li>
       </ul>
       <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
-      <embed src="UTS_SISMUL_FARIEL.pdf" type="application/pdf" width="100%" height="500px">
+      
     `;
   }
 }
