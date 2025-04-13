@@ -20,15 +20,15 @@ function tampilkan(halaman) {
     `;
   } else if (halaman === 'tugas') {
     konten.innerHTML = `
-      <h2>Tugas</h2>
-      <p>Berikut adalah tugas saya:</p>
-      <ul>
-        <li><a href="file/tugas1.pdf" download>Tugas 1 - PDF</a></li>
-        <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
-        <li><a href="#">Tugas 2 (belum diupload)</a></li>
-      </ul>
-      <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
-      
-    `;
+  <h2>Tugas</h2>
+  <p>Berikut adalah tugas saya:</p>
+  <ul>
+    <li><a href="file/tugas1.pdf" download>Tugas 1 - PDF</a></li>
+    <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
+    <li><a href="#">Tugas 2 (belum diupload)</a></li>
+  </ul>
+  <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
+`;
+
   }
 }
