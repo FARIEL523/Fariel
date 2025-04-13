@@ -19,12 +19,12 @@ function tampilkan(halaman) {
       <p>Instagram: @farielgifari</p>
     `;
   } else if (halaman === 'tugas') {
-    konten.innerHTML = `
+    konten.innerHTML = `                     FORMAT_AUDIO_POPULER.pdf
   <h2>Tugas</h2>
   <p>Berikut adalah tugas saya:</p>
   <ul>
     <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
-    <li><a href="file/tugas1.pdf" download>Tugas 1 - PDF</a></li>
+    <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
   <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
 `;
