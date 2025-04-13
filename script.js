@@ -1,0 +1,31 @@
+function tampilkan(halaman) {
+  const konten = document.getElementById('konten');
+
+  if (halaman === 'home') {
+    konten.innerHTML = `
+      <h2>Home</h2>
+      <p>Halo! Saya Fariel. Ini adalah web pribadi saya.</p>
+      <img src="gambar/foto1.jpg" alt="Foto Saya" width="200">
+    `;
+  } else if (halaman === 'about') {
+    konten.innerHTML = `
+      <h2>About</h2>
+      <p>Nama saya Muhammad Fariel Gifari. Saya suka belajar pemrograman dan membuat konten lucu!</p>
+    `;
+  } else if (halaman === 'contact') {
+    konten.innerHTML = `
+      <h2>Contact</h2>
+      <p>Email: fariel@example.com</p>
+      <p>Instagram: @farielgifari</p>
+    `;
+  } else if (halaman === 'tugas') {
+    konten.innerHTML = `
+      <h2>Tugas</h2>
+      <p>Berikut adalah tugas saya:</p>
+      <ul>
+        <li><a href="file/tugas1.pdf" download>Tugas 1 - PDF</a></li>
+        <li><a href="#">Tugas 2 (belum diupload)</a></li>
+      </ul>
+    `;
+  }
+}
