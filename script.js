@@ -11,6 +11,8 @@ function tampilkan(halaman) {
     konten.innerHTML = `
       <h2>About</h2>
       <p>Nama saya Muhammad Fariel Gifari. Saya suka belajar pemrograman dan membuat konten lucu!</p>
+        <img src="Ipin.jpeg" alt="Foto Lucu" width="300"><br><br>
+
     `;
   } else if (halaman === 'contact') {
     konten.innerHTML = `
