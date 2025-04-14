@@ -48,6 +48,6 @@ img {
   100% { color: red; }
 }
 
-.h2-body {
+.h1-body {
   animation: changeColor 2s linear infinite;
 }
