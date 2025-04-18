@@ -41,7 +41,7 @@ function tampilkan(halaman) {
   <img src="Georgia" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
   <img src="Roboto" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
 
-  <p style="text-align: center; font-weight: bold;">10 GAMBAR</p>
+              <p style="text-align: center; font-weight: bold;">10 GAMBAR</p>
   <p style="text-align: center;">1. JPEG</p>
   <img src="FotoMeme.jpg" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
 
@@ -71,6 +71,16 @@ function tampilkan(halaman) {
 
   <p style="text-align: center;">10. PDF</p>
   <img src="FotoMeme.pdf" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
+
+                <p style="text-align: center; font-weight: bold;">10 AUDIO</p>
+  <p style="text-align: center;">1. MP3</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.mp3" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">2. WAV</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.wav" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">3. AAC</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.aac" type="audio/mpeg"> </audio>
 
 
 `;
