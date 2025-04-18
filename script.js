@@ -29,14 +29,6 @@ function tampilkan(halaman) {
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
    <p>10 TEKS<p>
-
-  <audio controls>
-    <source src="Musik.mp3" type="audio/mpeg">
-  </audio>
-
-   <video width="320" height="240" controls>
-    <source src="Video.mp4" type="video/mp4">
-  </video>
 `;
 
   }
