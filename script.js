@@ -28,8 +28,8 @@ function tampilkan(halaman) {
     <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
-  
   <p style="text-align: center; font-weight: bold;">10 TEKS</p>
+  
   <img src="Calibri" alt="10 Teks" width="300"><br><br>
   <img src="TimesNewRoman" alt="10 Teks" width="300"><br><br>
   <img src="Arial" alt="10 Teks" width="300"><br><br>
@@ -40,6 +40,39 @@ function tampilkan(halaman) {
   <img src="Verdana" alt="10 Teks" width="300"><br><br>
   <img src="Georgia" alt="10 Teks" width="300"><br><br>
   <img src="Roboto" alt="10 Teks" width="300"><br><br>
+
+  <p style="text-align: center; font-weight: bold;">10 GAMBAR</p>
+  
+  <p>1. JPEG</p>
+  <img src="FotoMeme.jpg" alt="10 Gambar" width="300"><br><br>
+
+  <p>2. PNG</p>
+  <img src="FotoMeme.png" alt="10 Gambar" width="300"><br><br>
+
+  <p>3. GIF</p>
+  <img src="FotoMeme.gif" alt="10 Gambar" width="300"><br><br>
+
+  <p>4. BMP</p>
+  <img src="FotoMeme.bmp" alt="10 Gambar" width="300"><br><br>
+
+  <p>5. SVG</p>
+  <img src="FotoMeme.svg" alt="10 Gambar" width="300"><br><br>
+
+  <p>6. TIFF</p>
+  <img src="FotoMeme.tiff" alt="10 Gambar" width="300"><br><br>
+
+  <p>7. WEBP</p>
+  <img src="FotoMeme.webp" alt="10 Gambar" width="300"><br><br>
+
+  <p>8. HEIC</p>
+  <img src="FotoMeme.heic" alt="10 Gambar" width="300"><br><br>
+
+  <p>9. RAW</p>
+  <img src="FotoMeme_1744979634.raw" alt="10 Gambar" width="300"><br><br>
+
+  <p>10. pdf</p>
+  <img src="FotoMeme.pdf" alt="10 Gambar" width="300"><br><br>
+
 
 `;
 
