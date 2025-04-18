@@ -29,6 +29,7 @@ function tampilkan(halaman) {
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
    <p style="text-align: center;">10 TEKS</p>
+   <img src="TimesNewRoman" alt="10 Teks" width="300"><br><br>
 `;
 
   }
