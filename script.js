@@ -31,6 +31,16 @@ function tampilkan(halaman) {
   
   <p style="text-align: center; font-weight: bold;">10 TEKS</p>
   <img src="Calibri" alt="10 Teks" width="300"><br><br>
+  <img src="TimesNewRoman" alt="10 Teks" width="300"><br><br>
+  <img src="Arial" alt="10 Teks" width="300"><br><br>
+  <img src="Helvetica" alt="10 Teks" width="300"><br><br>
+  <img src="Garamond" alt="10 Teks" width="300"><br><br>
+  <img src="CourierNew" alt="10 Teks" width="300"><br><br>
+  <img src="ComicSans" alt="10 Teks" width="300"><br><br>
+  <img src="Verdana" alt="10 Teks" width="300"><br><br>
+  <img src="Georgia" alt="10 Teks" width="300"><br><br>
+  <img src="Roboto" alt="10 Teks" width="300"><br><br>
+
 `;
 
   }
