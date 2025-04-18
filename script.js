@@ -28,8 +28,9 @@ function tampilkan(halaman) {
     <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
-   <p style="text-align: center;">10 TEKS</p>
-   <img src="TimesNewRoman" alt="10 Teks" width="300"><br><br>
+  
+  <p style="text-align: center; font-weight: bold;">10 TEKS</p>
+  <img src="Calibri" alt="10 Teks" width="300"><br><br>
 `;
 
   }
