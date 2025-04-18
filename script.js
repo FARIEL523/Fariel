@@ -28,9 +28,8 @@ function tampilkan(halaman) {
     <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
-  <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
 
-   <p>10 TEKSp>
+   <p>10 TEKS<p>
 
   <audio controls>
     <source src="Musik.mp3" type="audio/mpeg">
