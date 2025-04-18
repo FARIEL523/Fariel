@@ -30,6 +30,8 @@ function tampilkan(halaman) {
   </ul>
   <img src="kelasTIB.jpeg" alt="Foto Kelas" width="300"><br><br>
 
+   <p>10 TEKSp>
+
   <audio controls>
     <source src="Musik.mp3" type="audio/mpeg">
   </audio>
