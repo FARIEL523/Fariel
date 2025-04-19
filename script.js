@@ -81,6 +81,27 @@ function tampilkan(halaman) {
 
   <p style="text-align: center;">3. AAC</p>
   <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.aac" type="audio/mpeg"> </audio>
+  
+  <p style="text-align: center;">4. OGG</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.ogg" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">5. FLAC</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.flac" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">6. ALAC</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.m4a" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">7. AIFF</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.aiff" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">8. DSD</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.mp3" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">9. WMA</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.wma" type="audio/mpeg"> </audio>
+
+  <p style="text-align: center;">10. OPUS</p>
+  <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.opus" type="audio/mpeg"> </audio>
 
 
 `;
