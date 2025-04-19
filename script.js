@@ -28,8 +28,9 @@ function tampilkan(halaman) {
     <li><a href="UTS_SISMUL_FARIEL.pdf" target="_blank">UTS Sistem Multimedia (PDF)</a></li>
     <li><a href="FORMAT_AUDIO_POPULER.pdf" target="_blank">Tugas 1 - (PDF)</a></li>
   </ul>
-  <p style="text-align: center; font-weight: bold;">10 TEKS</p>
+
   
+  <p style="text-align: center; font-weight: bold;">10 JENIS TEKS</p>
   <img src="Calibri" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
   <img src="TimesNewRoman" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
   <img src="Arial" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
@@ -41,7 +42,8 @@ function tampilkan(halaman) {
   <img src="Georgia" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
   <img src="Roboto" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
 
-              <p style="text-align: center; font-weight: bold;">10 GAMBAR</p>
+
+              <p style="text-align: center; font-weight: bold;">10 JENIS GAMBAR</p>
   <p style="text-align: center;">1. JPEG</p>
   <img src="FotoMeme.jpg" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
 
@@ -72,7 +74,7 @@ function tampilkan(halaman) {
   <p style="text-align: center;">10. PDF</p>
   <img src="FotoMeme.pdf" alt="10 Teks" width="300" style="display: block; margin: auto;"><br><br>
 
-                <p style="text-align: center; font-weight: bold;">10 AUDIO</p>
+                <p style="text-align: center; font-weight: bold;">10 JENIS AUDIO</p>
   <p style="text-align: center;">1. MP3</p>
   <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.mp3" type="audio/mpeg"> </audio>
 
@@ -134,6 +136,37 @@ function tampilkan(halaman) {
   <p style="text-align: center;">10. 3GP</p>
   <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.3gp" type="video/mp4"></video>
 
+
+              <p style="text-align: center; font-weight: bold;">10 JENIS ANIMASI</p>
+  <p style="text-align: center;">1. 2D</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Animasi2D.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">2. 3D</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Animasi3D.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">3. STOP MOTION</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiStopMotion.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">4. MOTION GRAPHICS</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiMotionGraphics.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">5. INFOGRAFIS</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiInfografis.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">6. WHITEBOARD</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiWhiteboard.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">7. EXPLAINER</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiExplainer.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">8. ROTOSCOPE</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiRotoscope.mov" type="video/mp4"></video>
+
+  <p style="text-align: center;">9. CLAY</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiClay.mov" type="video/mp4"></video>
+
+  <p style="text-align: center;">10. BONEKA</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="AnimasiBoneka.mp4" type="video/mp4"></video>
 
 
 `;
