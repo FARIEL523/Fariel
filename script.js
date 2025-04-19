@@ -103,6 +103,38 @@ function tampilkan(halaman) {
   <p style="text-align: center;">10. OPUS</p>
   <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.opus" type="audio/mpeg"> </audio>
 
+              <p style="text-align: center; font-weight: bold;">10 VIDEO</p>
+  <p style="text-align: center;">1. MP4</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.mp4" type="video/mp4"></video>
+
+  <p style="text-align: center;">2. AVI</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.avi" type="video/mp4"></video>
+
+  <p style="text-align: center;">3. MOV</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.mov" type="video/mp4"></video>
+
+  <p style="text-align: center;">4. MKV</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.mkv" type="video/mp4"></video>
+
+  <p style="text-align: center;">5. WMV</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.wmv" type="video/mp4"></video>
+
+  <p style="text-align: center;">6. FLV</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.flv" type="video/mp4"></video>
+
+  <p style="text-align: center;">7. WEBM</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.webm" type="video/mp4"></video>
+
+  <p style="text-align: center;">8. AVCHD</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.avchd.mts" type="video/mp4"></video>
+
+  <p style="text-align: center;">9. MPEG-2</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.mpg" type="video/mp4"></video>
+
+  <p style="text-align: center;">10. 3GP</p>
+  <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.3gp" type="video/mp4"></video>
+
+
 
 `;
 
