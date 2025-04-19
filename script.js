@@ -105,7 +105,7 @@ function tampilkan(halaman) {
   <p style="text-align: center;">10. OPUS</p>
   <audio controls style="display: block; margin: auto;"> <source src="dark-guitar-130435.opus" type="audio/mpeg"> </audio>
 
-              <p style="text-align: center; font-weight: bold;">10 VIDEO</p>
+              <p style="text-align: center; font-weight: bold;">10 JENIS VIDEO</p>
   <p style="text-align: center;">1. MP4</p>
   <video width="320" height="240" controls style="display: block; margin: 0 auto;"><source src="Kucing.mp4" type="video/mp4"></video>
 
